@@ -673,6 +673,22 @@ text-decoration: none;
 color: #000000;
 }
 
+.contact-left a{
+background: #000000;
+border: none;
+padding: 30px 30px;
+text-decoration: none;
+align-items: center;
+color: #ffffff;
+font-size: 20px;
+}
+
+.contact-left a:hover{
+background: #FFCC00;
+border: none;
+text-decoration: none;
+color: #000000;
+}
 
 
 footer{
